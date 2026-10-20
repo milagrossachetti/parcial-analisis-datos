@@ -1,4 +1,4 @@
-artifact_path: mlartifacts/models/m-cf86420471bc45a584a4cdee74c5d7ea/artifacts
+artifact_path: mlartifacts/models/m-ac696a522d394d94812166ac153fbd4d/artifacts
 flavors:
   python_function:
     env:
@@ -16,11 +16,11 @@ flavors:
     skops_trusted_types: null
 is_signature_from_type_hint: false
 mlflow_version: 3.17.1
-model_id: m-cf86420471bc45a584a4cdee74c5d7ea
+model_id: m-ac696a522d394d94812166ac153fbd4d
 model_size_bytes: 376105
-model_uuid: m-cf86420471bc45a584a4cdee74c5d7ea
+model_uuid: m-ac696a522d394d94812166ac153fbd4d
 prompts: null
-run_id: 12157c980c914f4a9b4680db2051650c
+run_id: 6c13479867274ad9a0e5cdf3ed1f3fd9
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
@@ -155,4 +155,4 @@ signature:
   outputs: '[{"type": "double", "required": true}]'
   params: null
 type_hint_from_example: false
-utc_time_created: '2026-10-17 22:46:05.420494'
+utc_time_created: '2026-10-20 00:14:19.866268'
